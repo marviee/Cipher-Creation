@@ -1,2 +1,2 @@
 # Cipher-Creation
-Cipher class foe encryption &amp; decryption
+Cipher class for encryption and decryption
